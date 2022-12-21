@@ -14,7 +14,7 @@ body {
 
 .top {
     background-color: black;
-    color: #fff;
+    color: white;
     padding: 20px;
     margin-bottom: 30px;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .avatarM {
-    height: 128px;
+    height: 140px;
     margin: 20px;
 }
 
